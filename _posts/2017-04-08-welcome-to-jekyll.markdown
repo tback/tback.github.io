@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leaving apple and macos for desktop linux"
+title:  "Leaving the Mac for desktop linux"
 date:   2017-04-08 19:49:57 +0200
 categories: linux, laptop, my-linux-migration
 ---
@@ -12,8 +12,8 @@ It was a Powerbook G4 1Ghz for EUR 3500. I had worked my ass off
 to afford it. It was a great machine (truly portable, solid battery
 life, great ui, unix). I now had daily arguments with my fellows
 about the performance advantage of my 1ghz g4 vs their 2ghz intel
-machines. Apart from that it life was great and I used that machine
-_every_ day for the next five years and it never let me down. I'm
+machines. Apart from that life was great and I used that machine
+_every_ day for the next five years. I'm
 on mac number seven[^my-machines] right now. Most machines were
 paid for by my employers. None of the machines ever broke
 [^replaced-parts]. Yet, after 15 years of Apple and OS X I'm gonna
