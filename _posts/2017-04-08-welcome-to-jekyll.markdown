@@ -57,6 +57,7 @@ links posts about those.
 | Picture Organizer | Adobe Lightroom | Darktable |
 | Image manipulation | Photoshop Elements | Gimp |
 | Office software | Libre Office | LibreOffice |
+| Git Gui | gitx | gitg |
 
 
 ## Footnotes
