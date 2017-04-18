@@ -49,6 +49,10 @@ links posts about those.
 |---------|-------|-------|
 | OS | macos | linux |
 | Filesystem encryption | Filevault | DeviceMapper |
+| Window Organizer | Divvy | i3 |
+| Dev package manager | brew | linux brew | 
+| Umlauts on us keyboard | - | - (but something to configure) |
+| System Info | iStatMenu | i3status |
 | Backup   | TimeMachine | Snapper + Restic |
 | Day/Night color manager | Flux | redshift gtk |
 | Password Manager | 1Password | Enpass |
